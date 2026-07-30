@@ -1,0 +1,16 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Backup: Push to GitHub",
+      "type": "shell",
+      "command": "powershell -ExecutionPolicy Bypass -File ./autosync.ps1",
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "panel": "shared"
+      },
+      "problemMatcher": []
+    }
+  ]
+}
