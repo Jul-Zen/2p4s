@@ -8,14 +8,14 @@
 
 
 ### Konzept 
-![Mein Bild](2P_4S_small.jpg)
+![Mein Bild](https://raw.githubusercontent.com/Jul-Zen/2p4s/main/2P_4S_small.jpg)
 
 
 ### BMS
-![Mein Bild](lipro.jpg)
+![Mein Bild](https://raw.githubusercontent.com/Jul-Zen/2p4s/main/lipro.jpg)
 
 ### Verkabelung 
-![Mein Bild](wiring.jpg)
+![Mein Bild](https://raw.githubusercontent.com/Jul-Zen/2p4s/main/wiring.jpg)
 
 
 
@@ -93,7 +93,7 @@ Erhaltungsspannung/Float: 13,5V
 
 # Match MPPT-config mit lipro-config für 80% DOD 
 
-![Mein Bild](Dicharge05C.jpg)
+![Mein Bild](https://raw.githubusercontent.com/Jul-Zen/2p4s/main/Dicharge05C.jpg)
 
 ## Konfigurationsparameter OVP 80% DOD:
 
@@ -116,7 +116,7 @@ UVP Trig Zelle = 2,9V
 UVP Trig 2p4s stack = 11,6V
 
 
-![Mein Bild](charge_curve.jpg)
+![Mein Bild](https://raw.githubusercontent.com/Jul-Zen/2p4s/main/charge_curve.jpg)
 
 
 
@@ -142,7 +142,7 @@ Cut Off Ladetemperatur = -15°C (Hysterese 2°C)
 
 Cut Off Entladetemperatur = -25°C (Hysterese 2°C) 
 
-![Mein Bild](cell_1_initial_settings_3.jpg)
+![Mein Bild](https://raw.githubusercontent.com/Jul-Zen/2p4s/main/cell_1_initial_settings_3.jpg)
 
 #### Appendix
 
