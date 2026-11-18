@@ -103,9 +103,9 @@ Grenzwerte Zelle:
 3,7V > 3,65V > 3,465V > 3,5V > 3,35
 
 Grenzwerte 2p4s Stack:
-14,8V > 14,6V > 13,86V > 14V > 14,4
+14,8V > 14,6V > 13,86V > 14V > 13,4
 
-ABSORPTIONSZEIT = 30min ( Zeitraum für passives Balancing )
+ABSORPTIONSZEIT = 15min ( Zeitraum für passives Balancing )
 
 (Initialladung Hersteller Zellspannung 60AHA = 3,55V)
 
